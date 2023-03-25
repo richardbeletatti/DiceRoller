@@ -16,6 +16,8 @@ https://user-images.githubusercontent.com/48281531/227729079-4d70fc78-9d88-4568-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Kotlin
+- Android Studio
+- Jetpack Compose
 
 ## 💻 Projeto
 
